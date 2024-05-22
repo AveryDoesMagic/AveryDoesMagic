@@ -1,0 +1,7 @@
+- 👋 Hi, I’m @AveryDoesMagic (AKA Stilry, AKA Avery)
+- 👀 I’m interested in: Coding
+- 🌱 I’m currently learning: HTML/CSS
+- 💞️ I’m looking to collaborate on: Nothing, yet.
+- 📫 How to reach me: [My email](mailto:stilry@icloud.com)
+- 😄 Pronouns: She/Her
+- ⚡ Fun fact: I'm a student at VUSD and work on this _during_ school ~~sometimes~~ most of the time.
